@@ -1,0 +1,39 @@
+engine_version: 1
+pipelines:
+  google_sheets:
+    is_dirty: false
+    last_commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+    last_commit_timestamp: '2023-06-02T18:22:50+02:00'
+    files:
+      google_sheets\README.md:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: be4416a02ef442684055d3fe69bde25358051115
+        sha3_256: 726d77590fb83d8a357b7a80deaa123a1ae50c80f165a4f9bd32da70dac87695
+      google_sheets\setup_script_gcp_oauth.py:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: 44f8dba7a6a8970dad9a464dfe51ec40bc7c2a6d
+        sha3_256: f1adf0bc83716b34a8cff12f8bd5d430f3094dc265cee1c14f3808a40807d694
+      google_sheets\__init__.py:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: 4427691ee762e969d822752c156a4caa22fa50dc
+        sha3_256: cb95c70ec212e75bb5149200e2f24360e7c143698376429b8d278bd53216a8f9
+      google_sheets\docs_images\Add_people.png:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: 048819f43f7a5ff8e1517fbf45ce8e9514f5658b
+        sha3_256: 4aa2ad61f32523d9635066ce7f82b936519c86effb91a4b2d6eccacd7be49f7a
+      google_sheets\docs_images\Share_button.png:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: 2ac37ef1b169790c607c3693e2208c2ea2b5512e
+        sha3_256: f5a088f4dac349e03035bd18219cf314b199e552a454bd8971a99cea935e0777
+      google_sheets\helpers\api_calls.py:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: 31ff116532b352d008c30ca7d8d65d5610ea8f1b
+        sha3_256: f43cc4b68fcd7d519322f85531ab05a2041a6ce3c4f32596060ad533f5ded0e3
+      google_sheets\helpers\data_processing.py:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: 5c9a39d293255a9aef5542e8e2a7a33e631d299c
+        sha3_256: 1890ddbbf6f57c49acb8a8738c822a28ed2b4d79fd775ac0e73878f389a2fe44
+      google_sheets\helpers\__init__.py:
+        commit_sha: 8865957a65bf450b98023cee3714dd9902c32b20
+        git_sha: e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+        sha3_256: a7ffc6f8bf1ed76651c14756a061d662f580ff4de43b49fa82d80a4b80f8434a
